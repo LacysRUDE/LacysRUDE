@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on UX/UI</h4>
+<h4 align="left">🔭 I’m currently working on UX/UI projects</h4>
 
 ###
 
