@@ -107,8 +107,7 @@
 ###
 
 
-<h2 quote align='center'>”Security is only as good as it's weakest link, and people are the weakest link in the chain.”</h2 quote>
-<h3 quote align='left'> -Schneier</h3 quote>
+<h3 quote align='center'>”Humans are the weakest link in cybersecurity.”</h3 quote>
 
 
 
