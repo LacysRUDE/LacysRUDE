@@ -105,8 +105,15 @@
 </div>
 
 ###
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=white&bgColor=black)
-Security is only as good as it's weakest link, and people are the weakest link in the chain.” Schneier, 2000
+## Dynamic Quotes on GitHub Readme:
+
+---
+
+<h2 quote align='center'>”Security is only as good as it's weakest link, and people are the weakest link in the chain.” -Schneier, 2000!</h2 quote>
+<h3 quote align='center'> -Schneier</h3 quote>
+
+---
+
 
 
 ###
