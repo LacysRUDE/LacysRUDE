@@ -105,3 +105,8 @@
 </div>
 
 ###
+
+?quote=Security is only as good as it's weakest link, and people are the weakest link in the chain.” Schneier, 2000
+
+
+###
