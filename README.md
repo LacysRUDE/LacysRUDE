@@ -105,8 +105,8 @@
 </div>
 
 ###
-
-?quote=Security is only as good as it's weakest link, and people are the weakest link in the chain.” Schneier, 2000
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=white&bgColor=black)
+Security is only as good as it's weakest link, and people are the weakest link in the chain.” Schneier, 2000
 
 
 ###
