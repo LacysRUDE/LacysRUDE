@@ -89,6 +89,12 @@
 
 ###
 
+
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/cb500b41-4b95-48a0-8bcf-d8750d5ec1a0)<h1 align="left">
+
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Lacys/count.svg?"  />
 </div>
